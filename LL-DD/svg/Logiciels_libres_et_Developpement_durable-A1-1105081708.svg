@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36030859"
-     inkscape:cx="1425.328"
-     inkscape:cy="1754.7556"
+     inkscape:zoom="0.50955329"
+     inkscape:cx="1445.7315"
+     inkscape:cy="1684.5871"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7031"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -652,7 +652,8 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g4055">
+         id="g4055"
+         transform="translate(0,-2.0790755)">
         <text
            transform="scale(1.0000517,0.99994831)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
@@ -1271,25 +1272,25 @@
         <text
            sodipodi:linespacing="125%"
            id="text5870"
-           y="503.52866"
-           x="346.44299"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           y="502.82236"
+           x="357.10828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
-             y="503.52866"
-             x="346.44299"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Sans;-inkscape-font-specification:Sans"
+             y="502.82236"
+             x="357.10828"
              id="tspan5872"
              sodipodi:role="line">Écologique</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text5874"
            y="570.06714"
-           x="290.99429"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           x="295.93787"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
              y="570.06714"
-             x="290.99429"
+             x="295.93787"
              id="tspan5876"
              sodipodi:role="line">Vivable</tspan></text>
         <text
@@ -1307,25 +1308,25 @@
         <text
            sodipodi:linespacing="125%"
            id="text5882"
-           y="677.92029"
-           x="354.70593"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           y="680.03918"
+           x="358.58362"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
-             y="677.92029"
-             x="354.70593"
+             y="680.03918"
+             x="358.58362"
              id="tspan5884"
              sodipodi:role="line">Équitable</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text5886"
            y="660.52466"
-           x="457.99274"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           x="462.23016"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
              y="660.52466"
-             x="457.99274"
+             x="462.23016"
              id="tspan5888"
              sodipodi:role="line">Économique</tspan></text>
         <text
@@ -1344,12 +1345,12 @@
            sodipodi:linespacing="125%"
            id="text5894"
            y="620.30719"
-           x="356.99402"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Sans Bold"
+           x="362.64392"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1"
              y="620.30719"
-             x="356.99402"
+             x="362.64392"
              id="tspan5896"
              sodipodi:role="line">Durable</tspan></text>
       </g>
