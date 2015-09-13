@@ -13,8 +13,8 @@
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
    inkscape:export-filename=""
-   sodipodi:docname="FDD2011-Layout-A0.svg"
-   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="LL&amp;DD_-_FDD_2011_Layout-A0.svg"
+   inkscape:version="0.91 r13725"
    version="1.1"
    id="svg6070"
    height="4212.9902"
@@ -28,15 +28,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16977835"
-     inkscape:cx="2331.5953"
-     inkscape:cy="2175.1269"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="2958.9142"
+     inkscape:cy="5370.5836"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1914"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -60,6 +60,14 @@
        orientation="1,0"
        position="2907.6321,3009.0862"
        id="guide11620" />
+    <sodipodi:guide
+       position="1650.4258,3843.0781"
+       orientation="0,1"
+       id="guide9508" />
+    <sodipodi:guide
+       position="1725.8125,3739.5664"
+       orientation="0,1"
+       id="guide9518" />
   </sodipodi:namedview>
   <defs
      id="defs6072">
@@ -67,6 +75,120 @@
        name="Fogra27L-CMYK-Coated-Press"
        xlink:href="/usr/share/color/icc/Fogra27L.icm"
        id="color-profile10676" />
+    <color-profile
+       id="color-profile10676-2"
+       xlink:href="/usr/share/color/icc/Fogra27L.icm"
+       name="Fogra27L-CMYK-Coated-Press" />
+    <linearGradient
+       id="linearGradient11213">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11215" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop11217" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3176">
+      <stop
+         style="stop-color:#8e8570;stop-opacity:1;"
+         offset="0"
+         id="stop3178" />
+      <stop
+         style="stop-color:#464236;stop-opacity:1;"
+         offset="1"
+         id="stop3180" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3216">
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1;"
+         offset="0"
+         id="stop3218" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3220" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3200">
+      <stop
+         style="stop-color:#fefefe;stop-opacity:1;"
+         offset="0"
+         id="stop3202" />
+      <stop
+         style="stop-color:#e2e2e2;stop-opacity:1;"
+         offset="1"
+         id="stop3204" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3184">
+      <stop
+         style="stop-color:#423e32;stop-opacity:1;"
+         offset="0"
+         id="stop3186" />
+      <stop
+         style="stop-color:#8e8872;stop-opacity:1;"
+         offset="1"
+         id="stop3188" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6747">
+      <stop
+         style="stop-color:#464236;stop-opacity:1;"
+         offset="0"
+         id="stop6749" />
+      <stop
+         style="stop-color:#7f7763;stop-opacity:1;"
+         offset="1"
+         id="stop6751" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4990">
+      <stop
+         id="stop4992"
+         offset="0"
+         style="stop-color:#808080;stop-opacity:1;" />
+      <stop
+         id="stop4994"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10279">
+      <stop
+         style="stop-color:#56422a;stop-opacity:1;"
+         offset="0"
+         id="stop10281" />
+      <stop
+         style="stop-color:#ba9a71;stop-opacity:1;"
+         offset="1"
+         id="stop10283" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10287">
+      <stop
+         style="stop-color:#e1e0e0;stop-opacity:1;"
+         offset="0"
+         id="stop10289" />
+      <stop
+         style="stop-color:#828282;stop-opacity:1;"
+         offset="1"
+         id="stop10291" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10299">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10301" />
+      <stop
+         style="stop-color:#828282;stop-opacity:1;"
+         offset="1"
+         id="stop10303" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata6075">
@@ -107,7 +229,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot11422"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-87.689219,80.229282)"><flowRegion
          id="flowRegion11424"><rect
            id="rect11426"
@@ -130,7 +252,7 @@
        transform="translate(379.99991,3160.8904)">
       <text
          xml:space="preserve"
-         style="font-size:56.61898041px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.61898041px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="5913.8491"
          y="-2417.7744"
          id="text3209"
@@ -139,22 +261,22 @@
            id="tspan3211"
            x="5913.8491"
            y="-2417.7744"
-           style="font-size:147.33155823px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Bitstream Vera Sans</tspan></text>
+           style="font-weight:bold;font-size:147.33155823px;-inkscape-font-specification:'Bitstream Vera Sans Bold'">Bitstream Vera Sans</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3215"
          y="-1973.9717"
          x="5913.8491"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:48px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           style="font-weight:bold;font-size:48px;-inkscape-font-specification:'Bitstream Vera Sans Bold'"
            y="-1973.9717"
            x="5913.8491"
            id="tspan3217"
            sodipodi:role="line">Bitstream Vera Sans</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="5913.8491"
          y="-2082.6748"
          id="text3219"
@@ -163,10 +285,10 @@
            id="tspan3221"
            x="5913.8491"
            y="-2082.6748"
-           style="font-size:56px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Bitstream Vera Sans</tspan></text>
+           style="font-weight:bold;font-size:56px;-inkscape-font-specification:'Bitstream Vera Sans Bold'">Bitstream Vera Sans</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="5913.8491"
          y="-1885.5559"
          id="text3223"
@@ -175,15 +297,15 @@
            id="tspan3225"
            x="5913.8491"
            y="-1885.5559"
-           style="font-size:24px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Bitstream Vera Sans</tspan></text>
+           style="font-weight:bold;font-size:24px;-inkscape-font-specification:'Bitstream Vera Sans Bold'">Bitstream Vera Sans</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7802"
          y="-2700.8691"
          x="5913.8491"
-         style="font-size:205px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:205px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           style="font-weight:bold;font-size:205px;-inkscape-font-specification:'Bitstream Vera Sans Bold'"
            y="-2700.8691"
            x="5913.8491"
            id="tspan7804"
@@ -193,9 +315,9 @@
          id="text31131"
          y="-2225.2698"
          x="5913.8491"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:72px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           style="font-weight:bold;font-size:72px;-inkscape-font-specification:'Bitstream Vera Sans Bold'"
            y="-2225.2698"
            x="5913.8491"
            id="tspan31133"
@@ -322,14 +444,15 @@
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="Fond"
+       style="display:inline"
        sodipodi:insensitive="true">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect4205-6"
-         width="2979.1775"
-         height="4212.9893"
+         width="2979.177"
+         height="4212.9888"
          x="3.5625001e-06"
-         y="0.0009765625" />
+         y="0.0016698251" />
       <g
          id="g4207-1"
          transform="matrix(4.0037829,0,0,4.0033582,4.02e-4,0.18109728)"
@@ -414,7 +537,7 @@
          height="2467.7468"
          width="29.54505"
          id="rect4233-8"
-         style="fill:#a7ce38;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#a7ce38;fill-opacity:1;stroke:none"
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
     <g
@@ -429,9 +552,9 @@
          id="text4245-8"
          y="4152.7651"
          x="1475.7728"
-         style="font-size:48.04285431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e37006;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.04285431px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e37006;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:48.04285431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.04285431px;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1"
            y="4152.7651"
            x="1475.7728"
            id="tspan4247-8"
@@ -448,7 +571,7 @@
          id="text12327"
          y="2953.125"
          x="-4092.9521"
-         style="font-size:24.02142143px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d8dfc3;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:24.02142143px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#d8dfc3;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="2953.125"
            x="-4092.9521"
@@ -474,7 +597,7 @@
              sodipodi:role="line"
              y="77.661201"
              x="211.53999 234.98199 260.263 286.612 299.198 320.983 333.569 358.51901 371.10501 393.00101 405.80701 429.24899 441.83401 468.146 486.289 511.23901 533.13501 545.94098 578.03101"
-             style="font-size:36.79999924px;font-variant:normal;font-weight:bold;fill:#154b70;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans">Logiciels Libres &amp;</tspan>
+             style="font-variant:normal;font-weight:bold;font-size:36.79999924px;font-family:'Bitstream Vera Sans';fill:#154b70;fill-opacity:1;fill-rule:nonzero;stroke:none">Logiciels Libres &amp;</tspan>
         </text>
         <text
            id="text4241-5"
@@ -484,7 +607,7 @@
           <tspan
              id="tspan4243-3"
              sodipodi:role="line"
-             style="font-size:36.79999924px;font-variant:normal;font-weight:bold;fill:#154b70;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans"
+             style="font-variant:normal;font-weight:bold;font-size:36.79999924px;font-family:'Bitstream Vera Sans';fill:#154b70;fill-opacity:1;fill-rule:nonzero;stroke:none"
              x="143.625"
              y="120.556">Développement Durable</tspan>
         </text>
