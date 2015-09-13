@@ -13,8 +13,8 @@
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
    inkscape:export-filename=""
-   sodipodi:docname="Logiciels_libres_et_Développement_durable-A1-1105081708.pdf"
-   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="Logiciels_libres_et_Developpement_durable-A1-1105081708.svg"
+   inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg6070"
    height="2979.9211"
@@ -28,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25477665"
-     inkscape:cx="1890.2487"
-     inkscape:cy="1526.215"
+     inkscape:zoom="0.36030859"
+     inkscape:cx="1677.0954"
+     inkscape:cy="2155.7916"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7031"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="1221"
      inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-x="1275"
+     inkscape:window-y="-10"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -653,27 +653,27 @@
       </g>
       <g
          id="g6040"
-         transform="matrix(1.4142912,0,0,1.414145,-22.628655,-392.39928)">
+         transform="matrix(1.4142912,0,0,1.414145,-21.589117,-375.42016)">
         <text
            style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="331.11823"
+           y="327.58673"
            x="502.82318"
            id="text4253">
           <tspan
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             style="font-size:13.77215576px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
              x="502.82318 512.28076 520.04559 524.84186 532.34906 539.89301 543.79382 551.57086 559.11487 563.01569 570.26526 573.66315 581.20709"
-             y="331.11823"
+             y="327.58673"
              sodipodi:role="line"
              id="tspan4255">Durée de vie</tspan>
         </text>
         <text
            style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="345.41656"
+           y="343.29767"
            x="469.55145"
            id="text4257">
           <tspan
-             y="345.41656"
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             y="343.29767"
+             style="font-size:13.77215576px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
              x="469.55145 477.32852 480.72638 488.46664 494.85754 498.75836 502.15622 509.66342 517.40369 525.18073 532.9455 540.4895 544.39032 552.16736 559.90759 563.80841 575.75616 583.30011 588.12091 595.66492 600.71875 604.11664 611.66064 615.03394"
              sodipodi:role="line"
              id="tspan4259">plus longue du matériel</tspan>
@@ -685,7 +685,7 @@
            id="text4261">
           <tspan
              transform="translate(1.9459094,0)"
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             style="font-size:13.77215534px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
              x="472.49402 477.24124 484.74841 489.58148 497.35855 500.75641 508.52118 516.02838 520.84918 528.39319 536.15796 541.21185 545.11261 549.01343 555.40436 562.91156 567.96539 575.2395 582.78351 590.54828 595.60217 599.50299 603.40375 607.30457 611.20532"
              y="359.75323"
              sodipodi:role="line"
@@ -1110,7 +1110,7 @@
       <path
          id="path4393"
          style="fill:none;stroke:#d6ddbf;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94117647;stroke-dasharray:none"
-         d="m 613.71726,216.75984 36.53833,-85.67537 189.58788,0.0542"
+         d="m 613.71726,216.75984 37.92438,-69.73579 188.89486,-0.63882"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
       <path
@@ -1120,7 +1120,7 @@
          id="path4395" />
       <path
          inkscape:connector-curvature="0"
-         d="m 835.14172,130.61016 0.21686,-0.75892 0.3795,-0.75892 0.59636,-0.70472 0.70479,-0.59629 0.75901,-0.37948 0.75899,-0.21682 0.81322,-0.10847 0.759,0.10847 0.81322,0.21682 0.75899,0.37948 0.7048,0.59629 0.54214,0.70472 0.3795,0.75892 0.27108,0.75892 0.0542,0.81314 -0.0542,0.81313 -0.27108,0.75892 -0.3795,0.75893 -0.54214,0.7047 -0.7048,0.54209 -0.75899,0.37948 -0.81322,0.21683 -0.759,0.10846 -0.81322,-0.10846 -0.75899,-0.21683 -0.75901,-0.37948 -0.70479,-0.54209 -0.59636,-0.7047 -0.3795,-0.75893 -0.21686,-0.81313 -0.10848,-0.75892 0.10848,-0.81314 z"
+         d="m 835.48823,145.51021 0.21686,-0.75892 0.3795,-0.75892 0.59636,-0.70472 0.70479,-0.59629 0.75901,-0.37948 0.75899,-0.21682 0.81322,-0.10847 0.759,0.10847 0.81322,0.21682 0.75899,0.37948 0.7048,0.59629 0.54214,0.70472 0.3795,0.75892 0.27108,0.75892 0.0542,0.81314 -0.0542,0.81313 -0.27108,0.75892 -0.3795,0.75893 -0.54214,0.7047 -0.7048,0.54209 -0.75899,0.37948 -0.81322,0.21683 -0.759,0.10846 -0.81322,-0.10846 -0.75899,-0.21683 -0.75901,-0.37948 -0.70479,-0.54209 -0.59636,-0.7047 -0.3795,-0.75893 -0.21686,-0.81313 -0.10848,-0.75892 0.10848,-0.81314 z"
          style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path4397" />
       <path
@@ -1351,6 +1351,52 @@
              id="tspan5896"
              sodipodi:role="line">Durable</tspan></text>
       </g>
+      <path
+         id="path4393-5"
+         style="fill:none;stroke:#d6ddbf;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94117647;stroke-dasharray:none;display:inline"
+         d="M 578.81179,228.22477 602.89307,43.739769 804.60891,43.447461"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 582.03538,235.71264 -8.54006,-1.00776 1.0083,-8.53937 8.54007,1.00776 -1.00831,8.53937 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+         id="path4395-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 800.30733,42.677703 0.21686,-0.75892 0.3795,-0.75892 0.59636,-0.70472 0.70479,-0.59629 0.75901,-0.37948 0.75899,-0.21682 0.81322,-0.10847 0.759,0.10847 0.81322,0.21682 0.75899,0.37948 0.7048,0.59629 0.54214,0.70472 0.3795,0.75892 0.27108,0.75892 0.0542,0.81314 -0.0542,0.81313 -0.27108,0.75892 -0.3795,0.75893 -0.54214,0.7047 -0.7048,0.54209 -0.75899,0.37948 -0.81322,0.21683 -0.759,0.10846 -0.81322,-0.10846 -0.75899,-0.21683 -0.75901,-0.37948 -0.70479,-0.54209 -0.59636,-0.7047 -0.3795,-0.75893 -0.21686,-0.81313 -0.10848,-0.75892 0.10848,-0.81314 z"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+         id="path4397-9" />
+      <g
+         style="display:inline"
+         id="g6040-6"
+         transform="matrix(1.4142912,0,0,1.414145,-12.521118,-514.60536)">
+        <text
+           style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
+           y="385.35699"
+           x="468.81644"
+           id="text4257-8">
+          <tspan
+             style="font-size:13.77215576px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             x="468.81644"
+             sodipodi:role="line"
+             id="tspan4259-3"
+             y="385.35699">impossible</tspan>
+        </text>
+      </g>
+      <text
+         transform="scale(1.0000517,0.99994831)"
+         style="font-size:6.50539637px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         y="4.4165111"
+         x="584.86224"
+         id="text4253-3-4">
+        <tspan
+           style="font-size:19.47683144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           x="584.86224"
+           sodipodi:role="line"
+           id="tspan4255-2-1"
+           y="4.4165111">Obsolescence programmée</tspan>
+      </text>
     </g>
     <flowRoot
        xml:space="preserve"
