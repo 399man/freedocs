@@ -13,8 +13,8 @@
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
    inkscape:export-filename=""
-   sodipodi:docname="Logiciels_libres_et_Développement_durable-A1-1105081708.pdf"
-   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="Logiciels_libres_et_Developpement_durable-A1-1105081708.svg"
+   inkscape:version="0.91 r13725"
    version="1.1"
    id="svg6070"
    height="2979.9211"
@@ -28,15 +28,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25477665"
-     inkscape:cx="1890.2487"
-     inkscape:cy="1526.215"
+     inkscape:zoom="0.36030859"
+     inkscape:cx="1425.328"
+     inkscape:cy="1754.7556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1914"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -652,44 +652,46 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g6040"
-         transform="matrix(1.4142912,0,0,1.414145,-22.628655,-392.39928)">
+         id="g4055">
         <text
-           style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="331.11823"
-           x="502.82318"
-           id="text4253">
-          <tspan
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-             x="502.82318 512.28076 520.04559 524.84186 532.34906 539.89301 543.79382 551.57086 559.11487 563.01569 570.26526 573.66315 581.20709"
-             y="331.11823"
-             sodipodi:role="line"
-             id="tspan4255">Durée de vie</tspan>
-        </text>
-        <text
-           style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="345.41656"
-           x="469.55145"
+           transform="scale(1.0000517,0.99994831)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
+           y="96.532234"
+           x="641.42065"
            id="text4257">
           <tspan
-             y="345.41656"
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-             x="469.55145 477.32852 480.72638 488.46664 494.85754 498.75836 502.15622 509.66342 517.40369 525.18073 532.9455 540.4895 544.39032 552.16736 559.90759 563.80841 575.75616 583.30011 588.12091 595.66492 600.71875 604.11664 611.66064 615.03394"
+             y="96.532234"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             x="641.42065 652.41913 657.22449 668.1709 677.20898 682.72565 687.53094 698.14777 709.09418 720.09259 731.07367 741.74255 747.25916 758.25757 769.20398 774.72058 791.61731 802.28607 809.10376 819.77264 826.91986 831.72522 842.39404 847.16461"
              sodipodi:role="line"
              id="tspan4259">plus longue du matériel</tspan>
         </text>
         <text
-           style="font-size:4.59999514px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="359.75323"
-           x="472.49402"
+           transform="scale(1.0000517,0.99994831)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
+           y="119.2469"
+           x="647.05206"
            id="text4261">
           <tspan
              transform="translate(1.9459094,0)"
-             style="font-size:12.26665306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-             x="472.49402 477.24124 484.74841 489.58148 497.35855 500.75641 508.52118 516.02838 520.84918 528.39319 536.15796 541.21185 545.11261 549.01343 555.40436 562.91156 567.96539 575.2395 582.78351 590.54828 595.60217 599.50299 603.40375 607.30457 611.20532"
-             y="359.75323"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             x="647.05206 653.76569 664.38245 671.21747 682.21594 687.02124 698.00232 708.61914 715.43683 726.10571 737.08679 744.23407 749.75061 755.26721 764.30536 774.92218 782.0694 792.35663 803.02545 814.00653 821.15387 826.67047 832.18701 837.70361 843.22009"
+             y="119.2469"
              sodipodi:role="line"
              id="tspan4263">(ordinateur, serveur...)</tspan>
+        </text>
+        <text
+           transform="scale(1.0000517,0.99994831)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
+           y="73.817558"
+           x="688.47418"
+           id="text4253">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             x="688.47418 701.84924 712.83038 719.61334 730.23016 740.89899 746.41559 757.414 768.08289 773.59949 783.85199 788.65735 799.32611"
+             sodipodi:role="line"
+             id="tspan4255"
+             y="73.817558">Durée de vie</tspan>
         </text>
       </g>
       <text
