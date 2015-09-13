@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="139.0706"
-     inkscape:cy="3535.3185"
+     inkscape:zoom="0.125"
+     inkscape:cx="1278.369"
+     inkscape:cy="1780.6968"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -19066,7 +19066,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Sources">
+     inkscape:label="Sources"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot63255"
@@ -19459,8 +19460,7 @@
      transform="translate(0,3160.8904)"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Contenu"
-     sodipodi:insensitive="true">
+     inkscape:label="Contenu">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -24374,7 +24374,7 @@
               </linearGradient>
               <polygon
                  clip-path="url(#SVGID_18_)"
-                 points="965.516,1315.449 952.184,1331.999 970.096,1346.429 983.428,1329.879 "
+                 points="970.096,1346.429 983.428,1329.879 965.516,1315.449 952.184,1331.999 "
                  id="polygon23172"
                  style="fill:url(#SVGID_20_)" />
             </g>
@@ -24409,17 +24409,17 @@
               </clipPath>
               <polygon
                  clip-path="url(#SVGID_22_)"
-                 points="983.43,1346.429 961.125,1346.429 983.43,1318.745 "
+                 points="983.43,1318.745 983.43,1346.429 961.125,1346.429 "
                  id="polygon10211"
                  style="fill:#ffffff" />
               <polygon
                  clip-path="url(#SVGID_22_)"
-                 points="952.184,1346.429 952.184,1343.815 975.039,1315.448 983.43,1315.448 983.43,1318.741 961.125,1346.429 "
+                 points="975.039,1315.448 983.43,1315.448 983.43,1318.741 961.125,1346.429 952.184,1346.429 952.184,1343.815 "
                  id="polygon10213"
                  style="fill:#ffffff" />
               <polygon
                  clip-path="url(#SVGID_22_)"
-                 points="952.184,1315.448 975.039,1315.448 952.184,1343.815 "
+                 points="952.184,1343.815 952.184,1315.448 975.039,1315.448 "
                  id="polygon10215"
                  style="fill:#ffffff" />
             </g>
@@ -24492,7 +24492,7 @@
               </linearGradient>
               <polygon
                  clip-path="url(#SVGID_24_)"
-                 points="921.408,1334.331 914.334,1318.085 892.605,1327.547 899.679,1343.793 "
+                 points="892.605,1327.547 899.679,1343.793 921.408,1334.331 914.334,1318.085 "
                  id="polygon23207"
                  style="fill:url(#SVGID_26_)" />
             </g>
@@ -24527,17 +24527,17 @@
               </clipPath>
               <polygon
                  clip-path="url(#SVGID_28_)"
-                 points="906.586,1343.792 892.605,1343.792 892.605,1318.085 895.391,1318.085 "
+                 points="892.605,1318.085 895.391,1318.085 906.586,1343.792 892.605,1343.792 "
                  id="polygon10250"
                  style="fill:#ffffff" />
               <polygon
                  clip-path="url(#SVGID_28_)"
-                 points="916.879,1343.792 906.59,1343.792 895.395,1318.085 905.684,1318.085 "
+                 points="895.395,1318.085 905.684,1318.085 916.879,1343.792 906.59,1343.792 "
                  id="polygon10252"
                  style="fill:#ffffff" />
               <polygon
                  clip-path="url(#SVGID_28_)"
-                 points="905.684,1318.085 921.406,1318.085 921.406,1343.792 916.879,1343.792 "
+                 points="921.406,1343.792 916.879,1343.792 905.684,1318.085 921.406,1318.085 "
                  id="polygon10254"
                  style="fill:#ffffff" />
             </g>
