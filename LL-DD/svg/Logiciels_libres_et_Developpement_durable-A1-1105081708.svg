@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50955329"
-     inkscape:cx="1445.7315"
-     inkscape:cy="1684.5871"
+     inkscape:cx="1331.1187"
+     inkscape:cy="1131.0651"
      inkscape:document-units="px"
-     inkscape:current-layer="g7031"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -444,7 +444,7 @@
        style="display:inline"
        sodipodi:insensitive="true">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect4205-6"
          width="2107.2236"
          height="2979.9199"
@@ -534,7 +534,7 @@
          height="1745.4799"
          width="20.897724"
          id="rect4233-8"
-         style="fill:#a7ce38;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#a7ce38;fill-opacity:1;stroke:none"
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
     <g
@@ -549,9 +549,9 @@
          id="text4245-8"
          y="4170.4551"
          x="1043.8396"
-         style="font-size:33.98154068px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e37006;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.98154068px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e37006;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:33.98154068px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.98154068px;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1"
            y="4170.4551"
            x="1043.8396"
            id="tspan4247-8"
@@ -568,12 +568,12 @@
          id="text12327"
          y="2088.7961"
          x="-4128.1504"
-         style="font-size:16.99076653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d8dfc3;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:16.99076653px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#d8dfc3;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="2088.7961"
            x="-4128.1504"
            sodipodi:role="line"
-           id="tspan11608">licence Creative Commons Paternité 3.0 (CC BY SA 2.5) - http://creativecommons.org/licenses/by-sa/2.5/ch/deed.fr</tspan></text>
+           id="tspan11608">licence Creative Commons Paternité 3.0 (CC BY 3.0) - http://creativecommons.org/licenses/by/3.0/deed.fr</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -586,7 +586,7 @@
          id="text7824"
          y="1425.4692"
          x="1166.4731"
-         style="font-size:50.92684174px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#154b70;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.92684174px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#154b70;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:104.21015167px;line-height:114.99999762%"
            y="1425.4692"

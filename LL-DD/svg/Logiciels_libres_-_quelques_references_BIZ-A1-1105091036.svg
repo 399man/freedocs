@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50404346"
-     inkscape:cx="1499.1102"
-     inkscape:cy="1659.0055"
+     inkscape:zoom="0.35641255"
+     inkscape:cx="959.08089"
+     inkscape:cy="1967.839"
      inkscape:document-units="px"
-     inkscape:current-layer="g5928"
+     inkscape:current-layer="layer10"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -1817,7 +1817,7 @@
        inkscape:label="Fond"
        sodipodi:insensitive="true">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect4205-6"
          width="2107.2236"
          height="2979.9199"
@@ -1907,7 +1907,7 @@
          height="1745.4799"
          width="20.897724"
          id="rect4233-8"
-         style="fill:#a7ce38;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#a7ce38;fill-opacity:1;stroke:none"
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
     <g
@@ -1922,9 +1922,9 @@
          id="text4245-8"
          y="4170.4551"
          x="1043.8396"
-         style="font-size:33.98154068px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e37006;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.98154068px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e37006;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:33.98154068px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.98154068px;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#e37006;fill-opacity:1"
            y="4170.4551"
            x="1043.8396"
            id="tspan4247-8"
@@ -1941,12 +1941,12 @@
          id="text12327"
          y="2088.7961"
          x="-4128.1504"
-         style="font-size:16.99076653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d8dfc3;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:16.99076653px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#d8dfc3;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="2088.7961"
            x="-4128.1504"
            sodipodi:role="line"
-           id="tspan11608">licence Creative Commons Paternité 3.0 (CC BY SA 2.5) - http://creativecommons.org/licenses/by-sa/2.5/ch/deed.fr</tspan></text>
+           id="tspan11608">licence Creative Commons Paternité 3.0 (CC BY 3.0) - http://creativecommons.org/licenses/by/3.0/deed.fr</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1956,7 +1956,7 @@
        sodipodi:insensitive="true">
       <text
          xml:space="preserve"
-         style="font-size:40.04758072px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#154b70;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.04758072px;line-height:114.99999762%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#154b70;fill-opacity:1;stroke:none"
          x="1148.7084"
          y="1424.8212"
          id="text25271"
@@ -1965,12 +1965,12 @@
            sodipodi:role="line"
            x="1148.7084"
            y="1424.8212"
-           style="font-size:104.21015167px;font-weight:bold;text-align:center;line-height:114.99999762%;text-anchor:middle;fill:#154b70;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold">Logiciels libres,</tspan><tspan
+           style="font-weight:bold;font-size:104.21015167px;line-height:114.99999762%;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:#154b70;fill-opacity:1">Logiciels libres,</tspan><tspan
            id="tspan25275"
            sodipodi:role="line"
            x="1148.7084"
            y="1544.6628"
-           style="font-size:104.21015167px;font-weight:bold;text-align:center;line-height:114.99999762%;text-anchor:middle;fill:#154b70;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold">quelques références</tspan></text>
+           style="font-weight:bold;font-size:104.21015167px;line-height:114.99999762%;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:#154b70;fill-opacity:1">quelques références</tspan></text>
     </g>
   </g>
   <g
