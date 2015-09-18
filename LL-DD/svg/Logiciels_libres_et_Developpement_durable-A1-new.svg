@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50955329"
-     inkscape:cx="1235.5455"
-     inkscape:cy="1822.479"
+     inkscape:zoom="0.25477665"
+     inkscape:cx="774.00744"
+     inkscape:cy="1413.2952"
      inkscape:document-units="px"
-     inkscape:current-layer="g3876"
+     inkscape:current-layer="layer5"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -239,7 +239,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Couleurs &amp; polices"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-1233.069)"
      sodipodi:insensitive="true">
     <g
@@ -1383,7 +1383,7 @@
          id="flowPara7851">Développement durable et logiciels libres reposent sur une philosophie similaire, basée sur l'équité, l'accès à l'information et à l'éducation, le respect des individus et des cultures, sans oublier également une orientation économique à visage humain.</flowPara></flowRoot>    <path
        id="path3867"
        style="fill:none;stroke:#d6ddbf;stroke-width:7.00832701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.94117647"
-       d="m 1207.73,-899.23545 43.657,-197.34865 394.8915,0.1085"
+       d="m 1207.73,-899.23545 23.657,-223.34865 434.8915,0.1085"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
@@ -1393,51 +1393,24 @@
        id="path3869" />
     <path
        inkscape:connector-curvature="0"
-       d="m 1641.5991,-1098.2278 0.4342,-1.5197 0.7599,-1.5196 1.1942,-1.4112 1.4112,-1.194 1.5199,-0.7598 1.5197,-0.4342 1.6284,-0.2172 1.5198,0.2172 1.6284,0.4342 1.5198,0.7598 1.4113,1.194 1.0855,1.4112 0.7599,1.5196 0.5428,1.5197 0.1086,1.6282 -0.1086,1.6282 -0.5428,1.5196 -0.7599,1.5197 -1.0855,1.4111 -1.4113,1.0854 -1.5198,0.7599 -1.6284,0.4342 -1.5198,0.2171 -1.6284,-0.2171 -1.5197,-0.4342 -1.5199,-0.7599 -1.4112,-1.0854 -1.1942,-1.4111 -0.7599,-1.5197 -0.4342,-1.6282 -0.2172,-1.5196 0.2172,-1.6282 z"
+       d="m 1661.5991,-1124.2986 0.4342,-1.5197 0.7599,-1.5196 1.1942,-1.4112 1.4112,-1.194 1.5199,-0.7598 1.5197,-0.4342 1.6284,-0.2172 1.5198,0.2172 1.6284,0.4342 1.5198,0.7598 1.4113,1.194 1.0855,1.4112 0.7599,1.5196 0.5428,1.5197 0.1086,1.6282 -0.1086,1.6282 -0.5428,1.5196 -0.7599,1.5197 -1.0855,1.4111 -1.4113,1.0854 -1.5198,0.7599 -1.6284,0.4342 -1.5198,0.2171 -1.6284,-0.2171 -1.5197,-0.4342 -1.5199,-0.7599 -1.4112,-1.0854 -1.1942,-1.4111 -0.7599,-1.5197 -0.4342,-1.6282 -0.2172,-1.5196 0.2172,-1.6282 z"
        style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path3871" />
     <g
        id="g3876"
-       transform="matrix(2.0023791,0,0,2.0023791,-42.34502,-1367.228)">
+       transform="matrix(2.0023791,0,0,2.0023791,-42.34502,-1383.228)">
       <text
          transform="scale(1.0000517,0.99994831)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-         y="96.532234"
-         x="641.42065"
-         id="text3882">
-        <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="641.42065 652.41913 657.22449 668.1709 677.20898 682.72565 687.53094 698.14777 709.09418 720.09259 731.07367 741.74255 747.25916 758.25757 769.20398 774.72058 791.61731 802.28607 809.10376 819.77264 826.91986 831.72522 842.39404 847.16461"
-           sodipodi:role="line"
-           id="tspan3884"
-           y="96.532234">plus longue du matériel</tspan>
-      </text>
-      <text
-         transform="scale(1.0000517,0.99994831)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-         y="119.2469"
-         x="647.05206"
-         id="text3886">
-        <tspan
-           transform="translate(1.9459094,0)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="647.05206 653.76569 664.38245 671.21747 682.21594 687.02124 698.00232 708.61914 715.43683 726.10571 737.08679 744.23407 749.75061 755.26721 764.30536 774.92218 782.0694 792.35663 803.02545 814.00653 821.15387 826.67047 832.18701 837.70361 843.22009"
-           sodipodi:role="line"
-           id="tspan3888"
-           y="119.2469">(ordinateur, serveur...)</tspan>
-      </text>
-      <text
-         transform="scale(1.0000517,0.99994831)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-         y="73.817558"
-         x="688.47418"
+         y="117.64597"
+         x="641.84753"
          id="text3890">
         <tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="688.47418 701.84924 712.83038 719.61334 730.23016 740.89899 746.41559 757.414 768.08289 773.59949 783.85199 788.65735 799.32611"
+           x="641.84753"
            sodipodi:role="line"
            id="tspan3892"
-           y="73.817558">Durée de vie</tspan>
+           y="117.64597">Durabilité programmée</tspan>
       </text>
     </g>
   </g>
