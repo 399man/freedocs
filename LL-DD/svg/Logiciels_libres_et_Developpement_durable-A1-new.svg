@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="90"
-   inkscape:export-xdpi="90"
-   inkscape:export-filename=""
+   inkscape:export-ydpi="299.99786"
+   inkscape:export-xdpi="299.99786"
+   inkscape:export-filename="/home/steve/Projets/freedocs/LL-DD/svg/Logiciels_libres_et_Developpement_durable-A1-new.svg.png"
    sodipodi:docname="Logiciels_libres_et_Developpement_durable-A1-new.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25477665"
-     inkscape:cx="774.00744"
-     inkscape:cy="1413.2952"
+     inkscape:cx="650.34562"
+     inkscape:cy="1769.1863"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g3876"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1914"
@@ -647,56 +647,6 @@
          transform="translate(0,0.00218262)"
          id="path5694" />
     </g>
-    <g
-       transform="matrix(2.0023791,0,0,2.0023791,237.65498,-1167.228)"
-       id="g4055">
-      <g
-         id="g19880">
-        <g
-           id="g19888">
-          <text
-             id="text4257"
-             x="641.42065"
-             y="96.532234"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-             transform="scale(1.0000517,0.99994831)">
-            <tspan
-               id="tspan4259"
-               sodipodi:role="line"
-               x="641.42065 652.41913 657.22449 668.1709 677.20898 682.72565 687.53094 698.14777 709.09418 720.09259 731.07367 741.74255 747.25916 758.25757 769.20398 774.72058 791.61731 802.28607 809.10376 819.77264 826.91986 831.72522 842.39404 847.16461"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               y="96.532234">plus longue du matériel</tspan>
-          </text>
-          <text
-             id="text4261"
-             x="647.05206"
-             y="119.2469"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-             transform="scale(1.0000517,0.99994831)">
-            <tspan
-               id="tspan4263"
-               sodipodi:role="line"
-               y="119.2469"
-               x="647.05206 653.76569 664.38245 671.21747 682.21594 687.02124 698.00232 708.61914 715.43683 726.10571 737.08679 744.23407 749.75061 755.26721 764.30536 774.92218 782.0694 792.35663 803.02545 814.00653 821.15387 826.67047 832.18701 837.70361 843.22009"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="translate(1.9459094,0)">(ordinateur, serveur...)</tspan>
-          </text>
-          <text
-             id="text4253"
-             x="688.47418"
-             y="73.817558"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.50539637px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
-             transform="scale(1.0000517,0.99994831)">
-            <tspan
-               y="73.817558"
-               id="tspan4255"
-               sodipodi:role="line"
-               x="688.47418 701.84924 712.83038 719.61334 730.23016 740.89899 746.41559 757.414 768.08289 773.59949 783.85199 788.65735 799.32611"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Durée de vie</tspan>
-          </text>
-        </g>
-      </g>
-    </g>
     <text
        transform="scale(1.0000517,0.99994831)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.02626991px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1"
@@ -705,7 +655,7 @@
        id="text4265">
       <tspan
          y="-756.19403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="1595.8234 1620.5212 1641.9756 1665.9308 1690.6676 1714.5448 1752.6075 1763.4324 1787.5049 1807.787 1820.1748 1844.9119 1855.541 1879.6136 1904.3506 1928.4232 1943.8202 1968.5571 1979.3038"
          sodipodi:role="line"
          id="tspan4267">Économies d'énergie</tspan>
@@ -717,13 +667,13 @@
          id="text4277"
          x="579.18463"
          y="779.54108"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59999514px;font-family:Sans;-inkscape-font-specification:Sans;fill:#666666;fill-opacity:1">
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59999514px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#666666;fill-opacity:1">
         <tspan
            id="tspan4279"
            sodipodi:role="line"
-           y="779.54108"
-           x="579.18463 582.97961 591.71503 600.45038 608.95117 617.68658 626.18738 634.92279 643.65814 652.11755 660.85291 668.42914 676.92993"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Indépendance</tspan>
+           x="579.18463"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           y="779.54108">Indépendance</tspan>
       </text>
       <text
          id="text4281"
@@ -733,9 +683,9 @@
         <tspan
            id="tspan4283"
            sodipodi:role="line"
-           y="795.60272"
            x="579.18463 584.60803 593.10883 600.68506 609.42041 618.15582 626.61523 630.41022 638.86957 647.60498 651.42761 660.16296 668.89838 677.39917"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">technologique</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           y="795.60272">technologique</tspan>
       </text>
     </g>
     <g
@@ -751,7 +701,7 @@
            sodipodi:role="line"
            y="820.74939"
            x="296.16998 303.87036 312.32974 318.00156 323.41113 327.23373 334.80994 338.63254 347.36792 355.79971 361.22308 365.04568 369.90329 374.27789 382.77869 388.18826"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Participatif et</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Participatif et</tspan>
       </text>
       <text
          id="text4301"
@@ -763,7 +713,7 @@
            sodipodi:role="line"
            y="836.81104"
            x="313.15161 320.31381 328.77319 332.59579 336.39078 345.12619 353.58557 357.40817 362.73495"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">solidaire</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">solidaire</tspan>
       </text>
     </g>
     <g
@@ -779,7 +729,7 @@
            sodipodi:role="line"
            y="751.55774"
            x="156.87677 164.35635 172.81575 178.22534 191.63893 200.09831 205.52171 209.8963 218.3557 227.09109 235.24689 243.74767 249.41946 254.82906"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Format ouvert</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Format ouvert</tspan>
       </text>
       <text
          id="text4309"
@@ -791,7 +741,7 @@
            sodipodi:role="line"
            y="767.61938"
            x="200.5842 212.12099"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">=</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">=</tspan>
       </text>
       <text
          id="text4313"
@@ -803,7 +753,7 @@
            sodipodi:role="line"
            y="783.68109"
            x="160.9301 166.35349 171.98389 180.44327 189.17867 196.34085 205.07625 213.53563 218.86244 227.36322 236.12622 243.6748"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">transparence</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">transparence</tspan>
       </text>
     </g>
     <g
@@ -819,7 +769,7 @@
            sodipodi:role="line"
            y="539.42133"
            x="147.58223 156.55223 165.05302 173.78841 182.5238 190.09999 195.50958 199.33218 207.79156"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Réduction</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Réduction</tspan>
       </text>
       <text
          id="text4321"
@@ -831,7 +781,7 @@
            sodipodi:role="line"
            y="555.48297"
            x="153.14905 161.85684 170.61983 174.99443 179.85202 188.31142 195.4736 202.63579 211.13658"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du fossé</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du fossé</tspan>
       </text>
       <text
          id="text4325"
@@ -843,7 +793,7 @@
            sodipodi:role="line"
            y="571.54462"
            x="144.48511 153.2205 161.9559 175.36948 183.87027 189.54207 193.33707 202.07245 210.80785"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">numérique</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">numérique</tspan>
       </text>
     </g>
     <g
@@ -859,7 +809,7 @@
            sodipodi:role="line"
            y="456.08478"
            x="170.59009 178.67688 184.04507 192.47687 201.21225 206.88405 215.34343 228.75702 242.19821 250.69899 257.86121"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Programmes</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Programmes</tspan>
       </text>
       <text
          id="text4333"
@@ -871,7 +821,7 @@
            sodipodi:role="line"
            y="472.14642"
            x="144.83011 153.56551 162.0249 167.69669 173.10628 176.92888 184.50507 188.30006 197.03546 205.49484 210.91824 214.71324 219.61223 226.77443 231.14902 239.88441 243.63802 252.13879 257.56223 266.29761 275.03299 283.53378"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">participatifs d'étude</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">participatifs d'étude</tspan>
       </text>
       <text
          id="text4337"
@@ -883,7 +833,7 @@
            sodipodi:role="line"
            y="488.20807"
            x="179.86674 188.60214 197.33752 201.71213 209.28831 213.11092 216.9059 230.34709 238.77888 244.20227"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du climat</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du climat</tspan>
       </text>
     </g>
     <g
@@ -899,7 +849,7 @@
            sodipodi:role="line"
            y="401.61316"
            x="167.1656 175.487 184.2224 188.01738 191.83998 200.29938 207.46156 215.92096 224.65634 233.39174 237.18674 245.68753"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Philosophie</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Philosophie</tspan>
       </text>
       <text
          id="text4345"
@@ -911,7 +861,7 @@
            sodipodi:role="line"
            y="417.6748"
            x="180.71007 189.44547 198.18086 202.55545 206.35045 210.17305 218.90843 224.23523"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du libre</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du libre</tspan>
       </text>
     </g>
     <g
@@ -927,7 +877,7 @@
            sodipodi:role="line"
            y="356.5332"
            x="321.48886 329.57565 334.94385 343.37564 356.81683 365.27621 370.68582 374.50839 382.9678 391.67557 396.05017 404.81317 413.54855"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Promotion du</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Promotion du</tspan>
       </text>
       <text
          id="text4353"
@@ -939,7 +889,7 @@
            sodipodi:role="line"
            y="372.59485"
            x="312.02072 322.63293 331.1337 339.31711 347.8179 351.61288 360.07227 368.80768 377.54306 386.04385 399.45743 407.95822 416.6936 422.117"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Développement</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Développement</tspan>
       </text>
       <text
          id="text4357"
@@ -951,7 +901,7 @@
            sodipodi:role="line"
            y="388.65649"
            x="341.24991 349.98532 358.7207 364.39249 372.8519 381.58728 385.38226"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">durable</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">durable</tspan>
       </text>
     </g>
     <g
@@ -967,7 +917,7 @@
            sodipodi:role="line"
            y="664.9245"
            x="607.74274 616.45056 624.06812 632.49994 641.23529 649.6947 663.13586 666.93091"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Économie</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Économie</tspan>
       </text>
       <text
          id="text4365"
@@ -979,7 +929,7 @@
            sodipodi:role="line"
            y="680.98621"
            x="602.75964 611.495 619.99579 624.37042 631.53259 640.03339 645.66376 653.84717 657.6698 665.24597 673.74677"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">de services</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">de services</tspan>
       </text>
     </g>
     <path
@@ -1033,7 +983,7 @@
            sodipodi:role="line"
            y="568.28632"
            x="593.01831 601.73987 615.15344 623.88885 627.71143 636.14325 641.56665 645.38922 653.82104 662.5564"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Émulation</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Émulation</tspan>
       </text>
       <text
          id="text4273"
@@ -1043,9 +993,9 @@
         <tspan
            id="tspan4275"
            sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
            y="584.34796"
-           x="599.99963 607.57581 612.90265 621.40344 629.86279 635.2724 639.09497 647.25079"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">créative</tspan>
+           x="599.99963 607.57581 612.90265 621.40344 629.86279 635.2724 639.09497 647.25079">créative</tspan>
       </text>
     </g>
     <path
@@ -1214,7 +1164,7 @@
            sodipodi:role="line"
            y="63.101143"
            x="1292.8951 1317.632 1332.9901 1343.7366 1381.7994 1406.5363 1417.283 1441.2383 1456.5962 1467.3429 1491.2982 1516.035"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Stimulation</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">Stimulation</tspan>
       </text>
       <text
          id="text4289"
@@ -1227,7 +1177,7 @@
            sodipodi:role="line"
            y="108.58463"
            x="1334.0364 1358.7733 1383.51 1395.8982 1411.2561 1422.0811 1442.3628 1462.6448 1487.3815"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du tissu</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">du tissu</tspan>
       </text>
       <text
          id="text4293"
@@ -1240,7 +1190,7 @@
            sodipodi:role="line"
            y="154.06799"
            x="1238.7274 1262.8 1284.2543 1308.2097 1332.9465 1356.9017 1394.8864 1405.6332 1430.4481 1455.1068 1479.1796 1491.5674 1502.3922 1526.3477 1547.8019 1571.7572"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">économique local</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.07880783px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none">économique local</tspan>
       </text>
     </g>
     <path
@@ -1277,7 +1227,7 @@
            y="473.76752"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#727272;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4453"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:Sans;-inkscape-font-specification:Sans">Coûts de licences quasi nuls</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79998493px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans'">Coûts de licences quasi nuls</flowPara></flowRoot>    <g
        id="g5944"
        transform="matrix(2.8319471,0,0,2.8316544,29.328784,-2209.7466)">
       <text
@@ -1406,12 +1356,44 @@
          x="641.84753"
          id="text3890">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.51618767px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="641.84753"
            sodipodi:role="line"
            id="tspan3892"
            y="117.64597">Durabilité programmée</tspan>
       </text>
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3593"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3595"><rect
+           id="rect3597"
+           width="10.793768"
+           height="43.175072"
+           x="641.73859"
+           y="809.39258" /></flowRegion><flowPara
+         id="flowPara3599"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.07880783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1729.2557"
+       y="-1024.1602"
+       id="text3601"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3603"
+         x="1729.2557"
+         y="-1024.1602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle">Durée de vie</tspan><tspan
+         sodipodi:role="line"
+         x="1729.2557"
+         y="-975.31165"
+         id="tspan3605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle">pluslongue du matériel</tspan><tspan
+         sodipodi:role="line"
+         x="1729.2557"
+         y="-926.46313"
+         id="tspan3607"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle">(ordinateur, serveur, …)</tspan></text>
   </g>
 </svg>
